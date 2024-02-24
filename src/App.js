@@ -1,19 +1,19 @@
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 import AboutUs from './pages/AboutUs';
 import Services from './pages/Services';
 import Blog from './pages/Blog';
 import CareerOpportunities from './pages/CareerOpportunities';
 import ResourceCenter from './pages/ResourceCenter';
-import Navbar from './components/Navbar/Navbar';
+// import Navbar from './components/Navbar/Navbar';
 import Portfolio from './pages/Portfolio';
 
 
 const App = () => {
   return (
     <Router>
-      <Navbar />
-      <Switch>
+      {/* <Navbar />
+      <Switch> */}
         <Route path='/' exact>
           <AboutUs />
         </Route>
@@ -32,7 +32,7 @@ const App = () => {
         <Route path='/portfolio'>
           <Portfolio/>
         </Route>
-      </Switch>
+      {/* </Switch> */}
     </Router>
   );
 }

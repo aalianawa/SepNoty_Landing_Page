@@ -1,0 +1,15 @@
+.btns{
+    border: 1px solid rgba(129, 150, 219, 1) !important;
+    background: none !important;
+    padding: 10px !important;
+    color: rgba(255, 255, 255, 1);
+    border-radius: 10px !important;
+}
+.text-t{
+    color: rgba(255, 255, 255, 1);
+
+}
+.tittles{
+    color: rgba(129, 150, 219, 1);
+
+}

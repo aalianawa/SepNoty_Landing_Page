@@ -5,14 +5,14 @@ color:white;
 padding:40px;
 background-color:rgba(12, 17, 31, 1);
 `;
-export const BlogTitle=styled.h2`
-font-size:25px;
-color:white;
-`;
-export const BlogName=styled.h1`
-color:white;
-font-size:30px;
-`;
+// export const BlogTitle=styled.h2`
+// font-size:25px;
+// color:white;
+// `;
+// export const BlogName=styled.h1`
+// color:white;
+// font-size:30px;
+// `;
 export const FiltersContainer=styled.div`
 display:flex;
 flex-wrap:wrap;
@@ -32,7 +32,3 @@ font-size:10px;
     color:white;
 }
 `;
-export const Paragraph =styled.dev`
-  
-`;
-export const textSection =st

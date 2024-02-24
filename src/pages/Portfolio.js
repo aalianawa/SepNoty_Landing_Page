@@ -1,14 +1,25 @@
 import React from 'react'
-import Footer from '../components/Portfolio/Footer'
 import Blog from '../components/Portfolio/Blogs/Blog'
-import SearchH from '../components/Portfolio/SearchHeading/SearchH'
+import FooterSection from '../components/Portfolio/FooterSection'
+import Items from '../components/Items/Items'
+import SearchH from '../components/SearchHeading/SearchH'
+import HeroSection from '../components/HeroSection/HeroSection'
+import MyPortfolio from '../components/MyPortfolio/Portfolio'
+import CaseStudy from '../components/CaseStudy/CaseStudy'
+
 
 const Portfolio = () => {
   return (
     <>
     <SearchH/>
+    <Items/>
     <Blog/>
-   <Footer/>
+
+    <FooterSection/>
+    <HeroSection/>
+    <MyPortfolio/>
+    <CaseStudy/>
+   
     </>
   )
 }

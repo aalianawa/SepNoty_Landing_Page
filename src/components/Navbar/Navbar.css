@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
 * {
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
@@ -18,7 +18,7 @@ li {
   color:white;
   box-shadow: rgba(50, 50, 93, 0.23) 0px 30px 30px -20px;
   background-color: #0C111F;
-  /*box-shadow: rgba(50, 50, 93, 0.23) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;*/
+  /*box-shadow: rgba(50, 50, 93, 0.23) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
 }
 
 .nav-links {
@@ -112,4 +112,4 @@ button {
   font-weight: bold;
   cursor:pointer;
   margin-top: -10px;
-}
+} */

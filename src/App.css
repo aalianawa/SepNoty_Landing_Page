@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.btn-fill-out {
+  background: rgba(43, 69, 155, 1) !important;
+  padding: 10px !important;
+  color: rgba(255, 255, 255, 1) !important;
+
+}
+.t-section{
+  background: rgba(217, 217, 217, 1);
+
+}
